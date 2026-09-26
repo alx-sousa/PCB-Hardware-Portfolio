@@ -1,0 +1,11 @@
+# Local CAD / temporary exports
+*.bak
+*.tmp
+*.autosave
+Thumbs.db
+.DS_Store
+
+# Never publish secrets
+.env
+*.key
+secrets.*
