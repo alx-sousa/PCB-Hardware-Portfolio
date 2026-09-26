@@ -6,6 +6,20 @@
 
 ---
 
+## Visuals
+
+<p align="center">
+  <img src="../../assets/projects/autonomous-iot-monitoring-rev2/fusion360-rev2-assembly.png" width="72%" alt="Autonomous IoT Monitoring REV 2.0 assembly in Fusion 360">
+</p>
+
+<p align="center"><em>Fusion 360 mechanical assembly — removable XIAO ESP32-S3 and external PN532 integration.</em></p>
+
+<p align="center">
+  <img src="../../assets/projects/autonomous-iot-monitoring-rev2/easyeda-rev2-pcb.png" width="58%" alt="Autonomous IoT Monitoring REV 2.0 PCB in EasyEDA Pro">
+</p>
+
+<p align="center"><em>REV 2.0 PCB design in EasyEDA Pro before fabrication.</em></p>
+
 ## Overview
 
 REV 2.0 evolves the receiver from prototype-level wiring into a cleaner, maintainable two-layer carrier PCB.
