@@ -1,36 +1,41 @@
-# PCB & Hardware Integration Portfolio
+# PCB Hardware Portfolio
 
-**Embedded Hardware · PCB Design · Mechanical Integration · Bring-Up**
+**PCB Design · Embedded Hardware · HW/FW Integration**
 
-Selected PCB work by **Luis Alejandro Pérez Sousa**, focused on embedded systems, IoT and hardware–firmware integration.
+A compact visual index of PCB designs by **Luis Alejandro Pérez Sousa**.
 
 [Español](README.es.md) · [GitHub Profile](https://github.com/alx-sousa)
 
 ---
 
-## Projects
+## PCB Designs
 
-| Project | Focus | Status |
-|---|---|---|
-| [Autonomous IoT Monitoring — REV 2.0](projects/autonomous-iot-monitoring-rev2/README.md) | XIAO ESP32-S3 · PN532 · 2-layer PCB · Fusion 360 | Mechanical integration |
+<table>
+<tr>
+<td width="28%" align="center" valign="top">
+  <a href="https://github.com/alx-sousa/Autonomous-IoT-Monitoring">
+    <img src="assets/projects/autonomous-iot-monitoring-rev2/fusion360-rev2-assembly.png" width="250" alt="Autonomous IoT Monitoring REV 2.0 Fusion 360 assembly">
+  </a>
+</td>
+<td width="72%" valign="top">
 
-More boards will be added as they reach a documented engineering stage.
+### [Autonomous IoT Monitoring — REV 2.0](https://github.com/alx-sousa/Autonomous-IoT-Monitoring)
+
+Two-layer receiver carrier PCB with a removable **XIAO ESP32-S3**, external **PN532 RFID** interface, local indicators and battery integration.
+
+**Focus:** modular hardware, serviceability and mechanical integration before fabrication.
+
+[PCB / hardware details](https://github.com/alx-sousa/Autonomous-IoT-Monitoring/blob/main/docs/hardware-rev2.md) · [EasyEDA PCB view](assets/projects/autonomous-iot-monitoring-rev2/easyeda-rev2-pcb.png) · [Fusion 360 assembly](assets/projects/autonomous-iot-monitoring-rev2/fusion360-rev2-assembly.png)
+
+**Status:** Mechanical integration · Pre-fabrication
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Engineering workflow
-
-**Schematic → Footprint verification → PCB layout → DRC → Mechanical integration → DFM → Bring-up → Validation**
-
-This repository keeps the landing page intentionally concise. Detailed decisions, constraints and validation status live inside each [project page](projects/).
-
-## Focus
-
-PCB design · Embedded hardware · IoT · HW/FW integration · DFM · Mechanical integration
-
----
+New boards will be added here as short visual entries. Full engineering documentation remains inside each project's own repository.
 
 **Luis Alejandro Pérez Sousa**  
-Mechatronics Engineering · Embedded Systems · IoT · PCB Design
-
-[Autonomous IoT Monitoring](https://github.com/alx-sousa/Autonomous-IoT-Monitoring)
+Mechatronics Engineering · Embedded Systems · IoT · PCB Design · Hardware/Firmware Integration
