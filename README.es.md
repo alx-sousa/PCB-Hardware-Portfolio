@@ -1,36 +1,41 @@
-# Portafolio de PCB e Integración de Hardware
+# Portafolio de Hardware PCB
 
-**Hardware Embebido · Diseño PCB · Integración Mecánica · Bring-Up**
+**Diseño PCB · Hardware Embebido · Integración HW/FW**
 
-Selección de diseños PCB de **Luis Alejandro Pérez Sousa**, enfocada en sistemas embebidos, IoT e integración hardware–firmware.
+Índice visual y compacto de diseños PCB de **Luis Alejandro Pérez Sousa**.
 
 [English](README.md) · [GitHub](https://github.com/alx-sousa)
 
 ---
 
-## Proyectos
+## Diseños PCB
 
-| Proyecto | Enfoque | Estado |
-|---|---|---|
-| [Autonomous IoT Monitoring — REV 2.0](projects/autonomous-iot-monitoring-rev2/README.md) | XIAO ESP32-S3 · PN532 · PCB 2 capas · Fusion 360 | Integración mecánica |
+<table>
+<tr>
+<td width="28%" align="center" valign="top">
+  <a href="https://github.com/alx-sousa/Autonomous-IoT-Monitoring">
+    <img src="assets/projects/autonomous-iot-monitoring-rev2/fusion360-rev2-assembly.png" width="250" alt="Ensamble Fusion 360 de Autonomous IoT Monitoring REV 2.0">
+  </a>
+</td>
+<td width="72%" valign="top">
 
-Se agregarán nuevos diseños conforme alcancen un estado de ingeniería suficientemente documentado.
+### [Autonomous IoT Monitoring — REV 2.0](https://github.com/alx-sousa/Autonomous-IoT-Monitoring)
+
+PCB carrier de dos capas para receptor, con **XIAO ESP32-S3 removible**, interfaz externa para **PN532 RFID**, indicadores locales e integración de batería.
+
+**Enfoque:** modularidad, mantenibilidad e integración mecánica antes de fabricación.
+
+[Detalles de PCB / hardware](https://github.com/alx-sousa/Autonomous-IoT-Monitoring/blob/main/docs/hardware-rev2.md) · [Vista PCB en EasyEDA](assets/projects/autonomous-iot-monitoring-rev2/easyeda-rev2-pcb.png) · [Ensamble Fusion 360](assets/projects/autonomous-iot-monitoring-rev2/fusion360-rev2-assembly.png)
+
+**Estado:** Integración mecánica · Pre-fabricación
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Flujo de trabajo
-
-**Esquemático → Verificación de footprints → Layout PCB → DRC → Integración mecánica → DFM → Bring-up → Validación**
-
-La página principal se mantiene deliberadamente breve. Las decisiones, restricciones y estado de validación se documentan dentro de cada [proyecto](projects/).
-
-## Enfoque
-
-Diseño PCB · Hardware embebido · IoT · Integración HW/FW · DFM · Integración mecánica
-
----
+Los próximos diseños se agregarán aquí como entradas visuales breves. La documentación completa permanecerá dentro del repositorio propio de cada proyecto.
 
 **Luis Alejandro Pérez Sousa**  
-Ingeniería Mecatrónica · Sistemas Embebidos · IoT · Diseño PCB
-
-[Autonomous IoT Monitoring](https://github.com/alx-sousa/Autonomous-IoT-Monitoring)
+Ingeniería Mecatrónica · Sistemas Embebidos · IoT · Diseño PCB · Integración Hardware/Firmware
