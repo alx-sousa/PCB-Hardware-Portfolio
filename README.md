@@ -14,11 +14,7 @@ Engineering portfolio by **Luis Alejandro Pérez Sousa**, focused on PCB design 
 
 A custom two-layer receiver PCB developed as the hardware evolution of a functional hospital-monitoring prototype.
 
-<p align="center">
-  <img src="assets/projects/autonomous-iot-monitoring-rev2/easyeda-rev2-pcb.png" width="43%" alt="Autonomous IoT Monitoring REV 2.0 PCB in EasyEDA Pro">
-  &nbsp;&nbsp;
-  <img src="assets/projects/autonomous-iot-monitoring-rev2/fusion360-rev2-assembly.png" width="52%" alt="Autonomous IoT Monitoring REV 2.0 mechanical assembly in Fusion 360">
-</p>
+> **Visual evidence files:** the EasyEDA Pro PCB view and Fusion 360 assembly are reserved under `assets/projects/autonomous-iot-monitoring-rev2/` for the original portfolio screenshots.
 
 The board was first completed and reviewed in **EasyEDA Pro**, then moved into **Fusion 360** to evaluate the PCB as part of the complete mechanical system rather than as an isolated board.
 
