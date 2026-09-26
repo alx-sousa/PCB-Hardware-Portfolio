@@ -2,11 +2,7 @@
 
 **Custom receiver PCB · XIAO ESP32-S3 · PN532 · Fusion 360 mechanical integration**
 
-<p align="center">
-  <img src="../../assets/projects/autonomous-iot-monitoring-rev2/easyeda-rev2-pcb.png" width="43%" alt="REV 2.0 PCB in EasyEDA Pro">
-  &nbsp;&nbsp;
-  <img src="../../assets/projects/autonomous-iot-monitoring-rev2/fusion360-rev2-assembly.png" width="52%" alt="REV 2.0 Fusion 360 assembly">
-</p>
+> **Visual evidence files:** the EasyEDA Pro PCB view and Fusion 360 assembly are reserved under `assets/projects/autonomous-iot-monitoring-rev2/` for the original portfolio screenshots.
 
 ## Objective
 
