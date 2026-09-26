@@ -14,11 +14,7 @@ Portafolio técnico de **Luis Alejandro Pérez Sousa**, enfocado en diseño de P
 
 PCB personalizada de dos capas desarrollada como evolución de hardware de un prototipo funcional de monitoreo hospitalario.
 
-<p align="center">
-  <img src="assets/projects/autonomous-iot-monitoring-rev2/easyeda-rev2-pcb.png" width="43%" alt="PCB Autonomous IoT Monitoring REV 2.0 en EasyEDA Pro">
-  &nbsp;&nbsp;
-  <img src="assets/projects/autonomous-iot-monitoring-rev2/fusion360-rev2-assembly.png" width="52%" alt="Ensamble mecánico Autonomous IoT Monitoring REV 2.0 en Fusion 360">
-</p>
+> **Evidencia visual:** las capturas de EasyEDA Pro y del ensamble en Fusion 360 se guardarán en `assets/projects/autonomous-iot-monitoring-rev2/` con sus archivos originales de portafolio.
 
 La placa se completó y revisó primero en **EasyEDA Pro** y después pasó a **Fusion 360** para evaluar la PCB como parte del sistema mecánico completo y no como una placa aislada.
 
