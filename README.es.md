@@ -14,7 +14,7 @@
 <tr>
 <td width="28%" align="center" valign="top">
   <a href="https://github.com/alx-sousa/Autonomous-IoT-Monitoring">
-    <img src="assets/projects/autonomous-iot-monitoring-rev2/fusion360-rev2-assembly.png" width="250" alt="Ensamble Fusion 360 de Autonomous IoT Monitoring REV 2.0">
+    <img src="https://raw.githubusercontent.com/alx-sousa/Autonomous-IoT-Monitoring/main/docs/images/rev2/rev2-final-enclosure-cad.jpg" width="250" alt="Ensamble Fusion 360 de Autonomous IoT Monitoring REV 2.0">
   </a>
 </td>
 <td width="72%" valign="top">
@@ -23,11 +23,11 @@
 
 PCB carrier de dos capas para receptor, con **XIAO ESP32-S3 removible**, interfaz externa para **PN532 RFID**, indicadores locales e integración de batería.
 
-**Enfoque:** modularidad, mantenibilidad e integración mecánica antes de fabricación.
+**Enfoque:** modularidad, mantenibilidad y CAD de carcasa completado antes de fabricación.
 
 [Detalles de PCB / hardware](https://github.com/alx-sousa/Autonomous-IoT-Monitoring/blob/main/docs/hardware-rev2.md) · [Vista PCB en EasyEDA](assets/projects/autonomous-iot-monitoring-rev2/easyeda-rev2-pcb.png) · [Ensamble Fusion 360](assets/projects/autonomous-iot-monitoring-rev2/fusion360-rev2-assembly.png)
 
-**Estado:** Integración mecánica · Pre-fabricación
+**Estado:** CAD mecánico completado · Pre-fabricación
 
 </td>
 </tr>
