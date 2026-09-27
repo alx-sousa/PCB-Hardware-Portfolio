@@ -14,7 +14,7 @@
 <tr>
 <td width="28%" align="center" valign="top">
   <a href="https://github.com/alx-sousa/Autonomous-IoT-Monitoring">
-    <img src="https://raw.githubusercontent.com/alx-sousa/Autonomous-IoT-Monitoring/main/docs/images/rev2/rev2-final-enclosure-cad.jpg" width="250" alt="Ensamble Fusion 360 de Autonomous IoT Monitoring REV 2.0">
+    <img src="https://raw.githubusercontent.com/alx-sousa/Autonomous-IoT-Monitoring/main/docs/images/rev2/rev2-final-enclosure-cad.png" width="250" alt="Ensamble Fusion 360 de Autonomous IoT Monitoring REV 2.0">
   </a>
 </td>
 <td width="72%" valign="top">
