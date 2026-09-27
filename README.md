@@ -14,7 +14,7 @@ A compact visual index of PCB designs by **Luis Alejandro Pérez Sousa**.
 <tr>
 <td width="28%" align="center" valign="top">
   <a href="https://github.com/alx-sousa/Autonomous-IoT-Monitoring">
-    <img src="assets/projects/autonomous-iot-monitoring-rev2/fusion360-rev2-assembly.png" width="250" alt="Autonomous IoT Monitoring REV 2.0 Fusion 360 assembly">
+    <img src="https://raw.githubusercontent.com/alx-sousa/Autonomous-IoT-Monitoring/main/docs/images/rev2/rev2-final-enclosure-cad.jpg" width="250" alt="Autonomous IoT Monitoring REV 2.0 Fusion 360 assembly">
   </a>
 </td>
 <td width="72%" valign="top">
@@ -23,11 +23,11 @@ A compact visual index of PCB designs by **Luis Alejandro Pérez Sousa**.
 
 Two-layer receiver carrier PCB with a removable **XIAO ESP32-S3**, external **PN532 RFID** interface, local indicators and battery integration.
 
-**Focus:** modular hardware, serviceability and mechanical integration before fabrication.
+**Focus:** modular hardware, serviceability and completed enclosure CAD before fabrication.
 
 [PCB / hardware details](https://github.com/alx-sousa/Autonomous-IoT-Monitoring/blob/main/docs/hardware-rev2.md) · [EasyEDA PCB view](assets/projects/autonomous-iot-monitoring-rev2/easyeda-rev2-pcb.png) · [Fusion 360 assembly](assets/projects/autonomous-iot-monitoring-rev2/fusion360-rev2-assembly.png)
 
-**Status:** Mechanical integration · Pre-fabrication
+**Status:** Mechanical CAD complete · Pre-fabrication
 
 </td>
 </tr>
