@@ -33,6 +33,29 @@ Two-layer receiver carrier PCB with a removable **XIAO ESP32-S3**, external **PN
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="28%" align="center" valign="top">
+  <a href="https://github.com/alx-sousa/DC-Motor-Controller-Encoder">
+    <img src="https://raw.githubusercontent.com/alx-sousa/DC-Motor-Controller-Encoder/main/docs/images/rev-a/pcb-3d-perspective.png" width="250" alt="DC Motor Controller with Encoder REV A PCB">
+  </a>
+</td>
+<td width="72%" valign="top">
+
+### [DC Motor Controller with Encoder — REV A](https://github.com/alx-sousa/DC-Motor-Controller-Encoder)
+
+Two-layer **12 V DC motor controller** designed at component level with protected power input, a **TPS54302** buck stage, **DRV8871** motor driver, incremental encoder interface and removable **ESP32-C6** control.
+
+**Focus:** component selection, power electronics, motor-drive layout, grounding, thermal design and structured bring-up planning.
+
+[Full project](https://github.com/alx-sousa/DC-Motor-Controller-Encoder) · [PCB layout](https://github.com/alx-sousa/DC-Motor-Controller-Encoder/blob/main/docs/images/rev-a/pcb-layout-2d.png) · [Fusion 360 assembly](https://github.com/alx-sousa/DC-Motor-Controller-Encoder/blob/main/docs/images/rev-a/fusion360-system-assembly.png)
+
+**Status:** REV A design complete · DRC passed · Pre-fabrication
+
+</td>
+</tr>
+</table>
+
 ---
 
 New boards will be added here as short visual entries. Full engineering documentation remains inside each project's own repository.
